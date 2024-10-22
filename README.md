@@ -8,4 +8,4 @@ For the project to run you will require some pre requisites installed:
   4. react router
   5. react bootstrap
 
-and after installing all these pre req, for deploying the contract type 'yarn start' in the terminal
+and after installing all these pre req, for deploying the contract type `yarn start` in the terminal
